@@ -1,3 +1,4 @@
+Refernce from: Thank you https://www.akshaybahadur.com/ 
 # Autopilot 🚘 🛣️
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Autopilot/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
@@ -6,10 +7,6 @@ This code helps in getting the steering angle of self driving car.
 ## Inspiration 🗼
 
 1) [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
-
-## Versions 🗽
-
-1) [Autopilot Version 1](https://github.com/akshaybahadur21/Autopilot)
 
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
@@ -40,3 +37,4 @@ If you face any problem, kindly raise an issue
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
  - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
  - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
+ - https://www.akshaybahadur.com/
