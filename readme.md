@@ -7,10 +7,7 @@ This code helps in getting the steering angle of self driving car.
 ## Inspiration 🗼
 
 1) [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
-## Versions 🗽
 
-1) [Autopilot Version 1](https://github.com/akshaybahadur21/Autopilot)
-2) 
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
